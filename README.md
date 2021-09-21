@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Data Science related Projects
 - 🤔 I’m looking for help with to improve my Skills
 - 👨‍💻 All of my projects are available at [https://github.com/graviteja28](https://github.com/graviteja28)
-- 💬 Ask me about **Python, C, Data Science, Machine Learning, Web Development, DBMS**
+- 💬 Ask me about **Python, C, Data Science, Machine Learning, DBMS**
 - 📫 How to reach me: **graviteja2805@gmail.com** or **graviteja28@gmail.com**
 - 📞 Conact Number: **8498839816**
 - ⚡ Fun fact **Learn and share knowledge among Students**
