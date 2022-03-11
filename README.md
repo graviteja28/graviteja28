@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Data Science related Projects
 - 🤔 I’m looking for help with to improve my Skills
 - 👨‍💻 All of my projects are available at [https://github.com/graviteja28](https://github.com/graviteja28)
-- 💬 Ask me about **Python, C, Data Science, Machine Learning, DBMS**
+- 💬 Ask me about **Python, C, Adobe Campaign, Salesforce Marking Cloud, Microsoft SQL Server, Data Science, Machine Learning**
 - 📫 How to reach me: **graviteja2805@gmail.com** or **graviteja28@gmail.com**
 - 📞 Conact Number: **8498839816**
 - ⚡ Fun fact **Learn and share knowledge among Students**
@@ -28,6 +28,8 @@
   
 - **Hackerrank** -  [Check out!](https://www.hackerrank.com/graviteja2805)
 - **Jetbrains** -  [Check out!](https://hyperskill.org/profile/81516204)
+- **Data Camp** -  [Check out!](https://www.datacamp.com/profile/gorantlaraviteja)
+- **LinkedIn** -  [Check out!](https://www.linkedin.com/in/ravi-teja-gorantla-4369a7156/)
 
 📈 My GitHub Stats
 
